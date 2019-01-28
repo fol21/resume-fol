@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (MiKTeX 2.9) (preloaded format=xelatex 2018.9.13)  19 OCT 2018 00:15
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (MiKTeX 2.9) (preloaded format=xelatex 2018.9.13)  28 JAN 2019 00:00
 entering extended mode
 **FernandoOliveiraLima_cv1_br.tex
 (C:\Projetos\resume-fol\latex\resume-cv\pt-br\FernandoOliveiraLima_cv1_br.tex
@@ -1295,7 +1295,7 @@ LaTeX Info: Redefining \nameref on input line 29.
 ! Undefined control sequence.
 \header ... {40pt}{72pt}\color {header}{\thinfont 
                                                   #1}{\bodyfont #2} }; \node...
-l.31 ...or{white}{Oliveira Lima}}}{Desenvolvedor }
+l.31 ...dware Developer | Engenheiro Eletrônico }
                                                    % Your name and current j...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1309,7 +1309,7 @@ t
 ! Undefined control sequence.
 \header ...color {header}{\thinfont #1}{\bodyfont 
                                                   #2} }; \node [anchor=north...
-l.31 ...or{white}{Oliveira Lima}}}{Desenvolvedor }
+l.31 ...dware Developer | Engenheiro Eletrônico }
                                                    % Your name and current j...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1320,7 +1320,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \header ...e {14pt}{24pt}\color {header}\thinfont 
                                                   #3}; \end {tikzpicture} \v...
-l.31 ...or{white}{Oliveira Lima}}}{Desenvolvedor }
+l.31 ...dware Developer | Engenheiro Eletrônico }
                                                    % Your name and current j...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1513,7 +1513,7 @@ or  <return>  to continue without it.
 ! Undefined control sequence.
 \section ...pace {\parskip } {\Large \headingfont 
                                                   \color {red}#1} \par \vspa...
-l.82 \section{Perfil}
+l.80 \section{Perfil}
                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1524,7 +1524,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \section ...pace {\parskip } {\Large \headingfont 
                                                   \color {red}#1} \par \vspa...
-l.88 \section{Educação}
+l.90 \section{Educação}
                          
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1542,37 +1542,37 @@ t 5.0pt
 -math.otf
 Requested font "cmmi6" at 6.99997pt
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 10.00015pt on input line 90.
+(Font)              scaled to size 10.00015pt on input line 92.
 Requested font "[latinmodern-math.otf]/OT:script=math;language=DFLT;" at 10.000
 15pt
  -> C:/Program Files (x86)/MiKTeX 2.9/fonts/opentype/public/lm-math/latinmodern
 -math.otf
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.00006pt on input line 90.
+(Font)              scaled to size 7.00006pt on input line 92.
 Requested font "[latinmodern-math.otf]/OT:script=math;language=DFLT;+ssty=1;" a
 t 7.00006pt
  -> C:/Program Files (x86)/MiKTeX 2.9/fonts/opentype/public/lm-math/latinmodern
 -math.otf
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 90.
+(Font)              scaled to size 5.00008pt on input line 92.
 Requested font "[latinmodern-math.otf]/OT:script=math;language=DFLT;+ssty=1;" a
 t 5.00008pt
  -> C:/Program Files (x86)/MiKTeX 2.9/fonts/opentype/public/lm-math/latinmodern
 -math.otf
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 9.99985pt on input line 90.
+(Font)              scaled to size 9.99985pt on input line 92.
 Requested font "[latinmodern-math.otf]/OT:script=math;language=DFLT;" at 9.9998
 5pt
  -> C:/Program Files (x86)/MiKTeX 2.9/fonts/opentype/public/lm-math/latinmodern
 -math.otf
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.99986pt on input line 90.
+(Font)              scaled to size 6.99986pt on input line 92.
 Requested font "[latinmodern-math.otf]/OT:script=math;language=DFLT;+ssty=1;" a
 t 6.99986pt
  -> C:/Program Files (x86)/MiKTeX 2.9/fonts/opentype/public/lm-math/latinmodern
 -math.otf
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 90.
+(Font)              scaled to size 4.99992pt on input line 92.
 Requested font "[latinmodern-math.otf]/OT:script=math;language=DFLT;+ssty=1;" a
 t 4.99992pt
  -> C:/Program Files (x86)/MiKTeX 2.9/fonts/opentype/public/lm-math/latinmodern
@@ -1580,7 +1580,7 @@ t 4.99992pt
 ! Undefined control sequence.
 \bfseries ->\headingfont 
                          \color {headercolor}
-l.98 ...: 10/2018 \\ \color{red}{CR = 7.85/10.0} }
+l.100 ... 10/2018 \\ \color{red}{CR = 7.85/10.0} }
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1618,7 +1618,7 @@ Requested font "Arial/OT:script=latn;language=DFLT;mapping=tex-text;color=58585
 ! Undefined control sequence.
 \bfseries ->\headingfont 
                          \color {headercolor}
-l.107 \color{red}{GPA = 3.9/4.0} }
+l.109 \color{red}{GPA = 3.9/4.0} }
                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1627,19 +1627,19 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (15.54518pt too wide) in alignment at lines 90--111
+Overfull \hbox (15.54518pt too wide) in alignment at lines 92--113
 [] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 90--112
+Underfull \hbox (badness 10000) in paragraph at lines 92--114
 
  []
 
 ! Undefined control sequence.
 \section ...pace {\parskip } {\Large \headingfont 
                                                   \color {red}#1} \par \vspa...
-l.117 \section{Experiência}
+l.119 \section{Experiência}
                             
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1650,7 +1650,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \bfseries ->\headingfont 
                          \color {headercolor}
-l.129 ...r, C++, C\#, Java, Python, entre outras.}
+l.131 ...r, C++, C\#, Java, Python, entre outras.}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1661,7 +1661,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \bfseries ->\headingfont 
                          \color {headercolor}
-l.136 ...s, durante o período de verão na UCSD.}
+l.138 ...r, C++, C\#, Java, Python, entre outras.}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1672,7 +1672,18 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \bfseries ->\headingfont 
                          \color {headercolor}
-l.143 ...a nos dados do modelo atmosférico Eta .}
+l.145 ...s, durante o período de verão na UCSD.}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\bfseries ->\headingfont 
+                         \color {headercolor}
+l.152 ...a nos dados do modelo atmosférico Eta .}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1681,19 +1692,19 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (15.54518pt too wide) in alignment at lines 119--145
+Overfull \hbox (15.54518pt too wide) in alignment at lines 121--154
 [] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--146
+Underfull \hbox (badness 10000) in paragraph at lines 121--155
 
  []
 
 ! Undefined control sequence.
 \bfseries ->\headingfont 
                          \color {headercolor}
-l.153 ...orias e desenvolvimento do laboratório.}
+l.162 ...orias e desenvolvimento do laboratório.}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1702,25 +1713,14 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (15.54518pt too wide) in alignment at lines 147--155
+Overfull \hbox (15.54518pt too wide) in alignment at lines 156--164
 [] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--156
+Underfull \hbox (badness 10000) in paragraph at lines 156--165
 
  []
-
-! Undefined control sequence.
-\section ...pace {\parskip } {\Large \headingfont 
-                                                  \color {red}#1} \par \vspa...
-l.164 \section{Cursos e outras atividades}
-                                          
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\se-ascii-print.def"
 File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
@@ -1730,9 +1730,20 @@ File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 
 ]
 ! Undefined control sequence.
+\section ...pace {\parskip } {\Large \headingfont 
+                                                  \color {red}#1} \par \vspa...
+l.173 \section{Cursos e outras atividades}
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
 \bfseries ->\headingfont 
                          \color {headercolor}
-l.175 ... programação iEEEXtreme , desde 2012 .}
+l.184 ... programação iEEEXtreme , desde 2012 .}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1743,7 +1754,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \bfseries ->\headingfont 
                          \color {headercolor}
-l.181 ...a de controle aplicado a robôs móveis.}
+l.190 ...a de controle aplicado a robôs móveis.}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1754,7 +1765,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \bfseries ->\headingfont 
                          \color {headercolor}
-l.187 ...robótica que fez sua estréia em 2014 .}
+l.196 ...robótica que fez sua estréia em 2014 .}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1765,7 +1776,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \bfseries ->\headingfont 
                          \color {headercolor}
-l.203 \end{itemize}}
+l.212 \end{itemize}}
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1774,14 +1785,14 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 203--203
+Underfull \hbox (badness 10000) in paragraph at lines 212--212
 
  []
 
 ! You can't use `macro parameter character #' in horizontal mode.
 <argument> ...temize} \item Advanced C++ \item C##
                                                    \item C++ Concurrency \it...
-l.203 \end{itemize}}
+l.212 \end{itemize}}
                     
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -1791,7 +1802,7 @@ return to the right one by typing `I}' or `I$' or `I\par'.
 ! Undefined control sequence.
 \bfseries ->\headingfont 
                          \color {headercolor}
-l.209 ...e Projetos de Inovação e aprendizagem.}
+l.218 ...e Projetos de Inovação e aprendizagem.}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1802,7 +1813,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \bfseries ->\headingfont 
                          \color {headercolor}
-l.215 ... Stefanini . Atuando como desenvolvedor.}
+l.224 ... Stefanini . Atuando como desenvolvedor.}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1813,7 +1824,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \bfseries ->\headingfont 
                          \color {headercolor}
-l.221 ...ckton Rio2C. Atuando como desenvolvedor.}
+l.230 ...ckton Rio2C. Atuando como desenvolvedor.}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1824,7 +1835,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \bfseries ->\headingfont 
                          \color {headercolor}
-l.227 ...kton Globo . Atuando como desenvolvedor.}
+l.236 ...kton Globo . Atuando como desenvolvedor.}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1835,7 +1846,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \bfseries ->\headingfont 
                          \color {headercolor}
-l.235 ...utação dos dias 22/10 a 26/10 em 2018.}
+l.244 ...utação dos dias 22/10 a 26/10 em 2018.}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1844,29 +1855,29 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (21.10182pt too wide) in alignment at lines 166--241
+Overfull \hbox (21.10182pt too wide) in alignment at lines 175--250
 [] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--242
+Underfull \hbox (badness 10000) in paragraph at lines 175--251
 
  []
 
 [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 281.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 281.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 290.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 290.
 
 (C:\Projetos\resume-fol\latex\resume-cv\pt-br\FernandoOliveiraLima_cv1_br.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 281.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 281.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 290.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 290.
 Package logreq Info: Writing requests to 'FernandoOliveiraLima_cv1_br.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
  39703 strings out of 428791
  735257 string characters out of 3163815
- 1150115 words of memory out of 3000000
+ 1151111 words of memory out of 3000000
  42620 multiletter control sequences out of 15000+200000
  5165 words of font info for 46 fonts, out of 3000000 for 9000
  1096 hyphenation exceptions out of 8191
